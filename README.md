@@ -1,4 +1,4 @@
-# Music-Recommendation-System
+# Music-Recommendation-System Music reccomendation system usig Cosine similarty
 The Music Recommendation System is an application that leverages machine learning techniques and the Spotify API to recommend songs based on user preferences. It provides a user-friendly interface where users can input songs they like, and the system generates recommendations of similar songs.
 
 **Features**
